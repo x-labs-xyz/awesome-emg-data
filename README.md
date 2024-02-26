@@ -1,3 +1,5 @@
+<img width=15%  src="signal.webp" align="right" />
+
 # Awesome EMG Data
 
 Welcome to __awesome-emg-data__, a curated list of Electromyography (EMG) datasets and scholarly publications designed for researchers, practitioners, and enthusiasts in the field of biomedical engineering, neurology, kinesiology, and related disciplines. Our goal is to facilitate the discovery and accessibility of high-quality EMG data and cutting-edge research findings to foster innovation, education, and collaboration in the analysis, interpretation, and application of EMG signals.
