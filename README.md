@@ -8,8 +8,7 @@ Welcome to __awesome-emg-data__, a curated list of Electromyography (EMG) datase
 Electromyography (EMG) is a diagnostic procedure to assess the health of muscles and the nerve cells that control them (motor neurons). EMG results can reveal nerve dysfunction, muscle dysfunction or problems with nerve-to-muscle signal transmission. In research and application, EMG data is emerging as an important signal in developing prosthetics, enhancing sports performance, understanding muscular disorders, and in the design of interactive technologies.
 
 ## Repository Contents
-- __Datasets__: A comprehensive list of open-access EMG datasets, including details on the type of data collected, recording conditions, and potential applications. Each dataset is accompanied by a link to the data source and a reference to the associated publication, if available.
-- __Publications__: An annotated bibliography of peer-reviewed research articles, reviews, and case studies focused on EMG data collection, analysis, and application. Each entry provides a brief summary of the research, key findings, and a link to the full text.
+- __Datasets__: A comprehensive list of open-access EMG datasets, each dataset is accompanied by a link to the data source and a reference to the associated publication, if available.
 
 ## How to Use This Repository
 Browse through the lists to find datasets and research articles that suit your interests or project needs. The repository is structured to help you quickly identify relevant resources through categorization and tagging based on application domains, data types, and research topics.
